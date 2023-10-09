@@ -28,12 +28,12 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 * Fork the repository
 * Clone the Forked Repository
 * Choose a DSA question from this [GFG SDE Sheet](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/) and provide a solution in any programming language of your choice.
-* Add your solution to the "[Solutions](https://github.com/GFGSC-RTU/GFG-SDE-Sheet-Solution-Kit/tree/main/Solutions)" folder, along with the problem statement.
+* Add your solution to the "[Solutions](https://github.com/reboot100/HACTOBERFEST_2023/tree/main/SOLUTIONS)" folder, along with the problem statement.
 * Now, you are ready to make a pull request.
 
 ## _Some considerations before contributing_
 
-* Be sure to read the files [CONTRIBUTING.md](https://github.com/GFGSC-RTU/GFG-SDE-Sheet-Solution-Kit/blob/main/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/GFGSC-RTU/GFG-SDE-Sheet-Solution-Kit/blob/main/CODE_OF_CONDUCT.md)
+* Be sure to read the files [CONTRIBUTING.md](https://github.com/reboot100/HACTOBERFEST_2023/blob/main/Contributing.md) and [CODE_OF_CONDUCT.md](https://github.com/reboot100/HACTOBERFEST_2023/blob/main/CODE_OF_CONDUCT.md)
 * Repeated codes will not be merged in same programming language.
 * The quality of pull requests is more important than the quantity.
 
