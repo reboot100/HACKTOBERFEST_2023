@@ -44,12 +44,6 @@ A month-long celebration from October 1st - 31st sponsored by [Digital Ocean](ht
 * Repeated codes will not be merged in same programming language.
 * The quality of pull requests is more important than the quantity.
 
-# 👕 _Why Should I Contribute?_
-Hacktoberfest has a simple and plain motto
-> Support open source with meaningful PRs and earn a limited edition T-shirt!
-
-So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source.<br>
-Working with open source project is a rewarding experience that allows you to practice your talent, collaborate with and learn from others, and give back to the developer community.
 
 ## _Note_
 
